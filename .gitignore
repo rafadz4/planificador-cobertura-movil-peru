@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+.coverage
+htmlcov/
+.venv/
+.env
+.DS_Store
+data/raw/
+*.xlsx
+*.log
+.streamlit/secrets.toml
+

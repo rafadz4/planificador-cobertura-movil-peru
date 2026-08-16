@@ -1,0 +1,22 @@
+{
+  "rows": 108115,
+  "columns": 36,
+  "departments": 25,
+  "provinces": 196,
+  "districts": 1734,
+  "null_cells": 0,
+  "duplicate_centers": 0,
+  "rural_centers": 104361,
+  "urban_centers": 3754,
+  "coverage_columns": 28,
+  "operators_without_5g_column": [
+    "movistar"
+  ],
+  "critical_4g_centers": 38216,
+  "partial_4g_centers": 9001,
+  "high_4g_centers": 60898,
+  "guaranteed_4g_rate": 0.121223,
+  "total_5g_rate": 0.003311,
+  "huarochiri_centers": 1326,
+  "source_file": "osiptel_raw.parquet"
+}
